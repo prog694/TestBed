@@ -9,6 +9,6 @@ package edu.stuy;
  * @author Pockets
  */
 public interface RobotMap {
-    int testcontroller1_channel = 1;
+    int testcontroller1_channel = 3;
     int voltageMonitor_channel = 0;
 }
